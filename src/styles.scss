@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto';
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+
+  h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+}
+
+.propertyPrice
+{
+  font-size: 2rem;
+  color:red;
+  line-height: 2rem;
+}
+
+.multipleImagesContainer
+{
+  height:20rem;
+
+  overflow-y: scroll;
+  scroll-behavior:smooth;
+}
